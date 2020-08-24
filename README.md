@@ -39,7 +39,7 @@ We also faced challenges with inconsistent Tokenization, as we were fine-tuning 
 
 We're proud of the presentation of our code. We believe that our concise code and commenting make it easily accessible to a wide array of audiences. Also, we are proud that we were able to apply new-found knowledge and techniques to fine-tune our algorithm.
 
-### What we learned
+## What we learned
 
 The project taught us skills such as utilizing regex and a variety of data structures (NumPy, pandas, TensorFlow).
 
