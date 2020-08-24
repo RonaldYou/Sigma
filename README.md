@@ -25,6 +25,8 @@ overfitting to the training data. We are performing binary classification so it 
 
 Dense - Dense layers represent a layer of neurons that is fully connected to the previous layer. The weights are adjusted during training as with all the other layers.
 
+![Neural Network Architecture](/graph.PNG)
+
 ## Challenges we ran into
 
 One of the issues we faced was creating a concise framework for sharing our code. We encountered issues with sharing on Github because of the large file size of our trained model. The common solution of using Github LFS helped us work around these issues, but raised some challenges of their own.
