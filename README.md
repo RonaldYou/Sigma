@@ -1,4 +1,4 @@
-# Sigma NPL
+# Sigma NLP
 
 ## Inspiration
 
